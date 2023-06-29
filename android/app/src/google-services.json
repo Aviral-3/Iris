@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882822614801",
+    "project_id": "eyefit-00d",
+    "storage_bucket": "eyefit-00d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882822614801:android:b1bce6fe6dc9870f7106b0",
+        "android_client_info": {
+          "package_name": "com.armaan.eyefit.eyefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882822614801-5h0vuv51dn5atg9d79uu0cq18tcpeouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBDxgWGsJEYz44tHSe4ETqCqSCtcsNVrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882822614801-5h0vuv51dn5atg9d79uu0cq18tcpeouf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
